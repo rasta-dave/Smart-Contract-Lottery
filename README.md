@@ -14,8 +14,8 @@ This project is part of the Cyfrin Foundry course and serves as a practical exam
 ## Quickstart
 
 ```
-git clone https://github.com/rasta-dave/FundMe-Crowdsourcing
-cd foundry-fund-me-cu
+git clone https://github.com/rasta-dave/smart-contract-lottery
+cd smart-contract-lottery
 make
 ```
 
