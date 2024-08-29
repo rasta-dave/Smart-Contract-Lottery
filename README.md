@@ -1,6 +1,6 @@
-# Credit goes to Patrick Collins @ Cyfrin for making this code available on his Youtube channel where he teaches this incredible stuff
-
 # Proveably Random Raffle Contract
+
+Credit goes to Patrick Collins @ Cyfrin for making this code available on his Youtube channel where he teaches this incredible stuff
 
 This project demonstrates a decentralized lottery system implemented using Solidity and tested with Foundry. It includes scripts for deploying the contract and interacting with it, and various unit and staging tests to ensure functionality.
 
